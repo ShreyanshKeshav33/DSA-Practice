@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "rotation",
+            "request": "launch",
+            "mainClass": "arrays.rotation",
+            "projectName": "Java_66a37a84"
+        },
+        {
+            "type": "java",
+            "name": "assignment2_2",
+            "request": "launch",
+            "mainClass": "arrays.assignment2_2",
+            "projectName": "Java_66a37a84"
+        },
+        {
+            "type": "java",
+            "name": "assignment1_1",
+            "request": "launch",
+            "mainClass": "arrays.assignment1_1",
+            "projectName": "Java_66a37a84"
+        },
+        {
+            "type": "java",
+            "name": "besttimetosellstocks",
+            "request": "launch",
+            "mainClass": "arrays.besttimetosellstocks",
+            "projectName": "Java_66a37a84"
+        },
+        {
+            "type": "java",
+            "name": "trappingrainwater",
+            "request": "launch",
+            "mainClass": "arrays.trappingrainwater",
+            "projectName": "Java_66a37a84"
+        },
+        {
+            "type": "java",
+            "name": "Run with AppMap",
+            "request": "launch",
+            "mainClass": "",
+            "vmArgs": "-javaagent:${userHome}\\.appmap\\lib\\java\\appmap.jar"
+        }
+    ]
+}
